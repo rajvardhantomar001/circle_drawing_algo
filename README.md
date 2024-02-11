@@ -2,5 +2,6 @@
 
 1. Mid point Circle Drawing Algorithm
 2. Mid point Ellipse Drawing Algorithm
-3. Bresenhems line drawing algorithm
+3. Bresenhams line drawing algorithm
 4. DDA line drawing Algorithm
+5. Bresenhams Circle drawing algorithm
