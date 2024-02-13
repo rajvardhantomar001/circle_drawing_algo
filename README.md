@@ -6,3 +6,4 @@
 4. DDA line drawing Algorithm
 5. Bresenhams Circle drawing algorithm
 6. Circle around circle
+7. Bezier Curve
